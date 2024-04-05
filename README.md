@@ -12,3 +12,4 @@ Pythonin ja Excelin yhteiskäyttö
   * Excel käyttöliittymänä
       * Harjoitus 6: Tee Excelin käyttäliittymä
     
+Artikkelit perustuvat täysin Aki Taanilan materiaaleihin, ks. https://tilastoapu.wordpress.com/python/.
