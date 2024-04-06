@@ -5,7 +5,7 @@ Pythonin ja Excelin yhteiskäyttö
   * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/Excelin_ohjaus_Pythonilla_oliomalli.ipynb">Excelin ohjaus Pythonilla: Excelin oliomalli</a>
   * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/Excelin_ohjaus_Pythonilla_interaktiivisuus.ipynb">Excelin ohjaus Pythonilla: interaktiivisuus</a>
       * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/harjoitus2_yhteenveto.ipynb">Harjoitus 2: Yhteenvedon tekeminen</a>
-      * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/harjoitus3_datan_analysointi.ipynb>Harjoitus 3: Datan analysointi</a>
+      * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/harjoitus3_datan_analysointi.ipynb">Harjoitus 3: Datan analysointi</a>
   * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/skriptit.ipynb">Python-skriptit</a>
       * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/harjoitus4_harjoitus3_skriptiksi.ipynb">Harjoitus 4: Muuta skriptiksi</a>
       * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/harjoitus5_ison_datan_osajoukkojen_yhteenvetoja.ipynb">Harjoitus 5: Ison aineiston osien yhteenvetoja</a>
