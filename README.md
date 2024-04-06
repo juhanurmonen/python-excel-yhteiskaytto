@@ -1,5 +1,5 @@
 Pythonin ja Excelin yhteiskäyttö
-  * Pythonin ja Excelin yhteiskäyttö: Johdanto ja työvälineet
+  * < href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/python-excel-tandem-johdanto-tyovalineet.ipynb">Pythonin ja Excelin yhteiskäyttö: Johdanto ja työvälineet</a>
   *  Python ja Excel-tiedostot
       * Harjoitus 1: Excel-tiedostot
   * Excelin ohjaus Pythonilla: oliomalli
