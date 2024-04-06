@@ -12,4 +12,4 @@
   * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/Excel_kayttoliittymana.ipynb">Excel käyttöliittymänä</a>
       * <a href="https://nbviewer.org/github/juhanurmonen/python-excel-yhteiskaytto/blob/main/harjoitus6_Excel_kayttoliittymana.ipynb">Harjoitus 6: Tee Exceliin käyttöliittymä</a>
     
-Artikkelit perustuvat Aki Taanilan materiaaleihin, ks. https://tilastoapu.wordpress.com/python/.
+Artikkelit perustuvat Aki Taanilan materiaaleihin a href="https://tilastoapu.wordpress.com/python/">Data-analytiikka Pythonilla</a>.
