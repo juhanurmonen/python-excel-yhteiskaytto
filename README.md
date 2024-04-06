@@ -10,6 +10,6 @@ Pythonin ja Excelin yhteiskäyttö
       * Harjoitus 4: Muuta skriptiksi
       * Harjoitus 5: Ison aineiston osien yhteenvetoja
   * Excel käyttöliittymänä
-      * Harjoitus 6: Tee Excelin käyttäliittymä
+      * Harjoitus 6: Tee Exceliin käyttäliittymä
     
 Artikkelit perustuvat Aki Taanilan materiaaleihin, ks. https://tilastoapu.wordpress.com/python/.
