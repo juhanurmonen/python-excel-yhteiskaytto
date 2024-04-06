@@ -1,5 +1,5 @@
 Pythonin ja Excelin yhteiskäyttö
-  * Johdanto ja työvälineet
+  * Pythonin ja Excelin yhteiskäyttö: Johdanto ja työvälineet
   *  Python ja Excel-tiedostot
       * Harjoitus 1: Excel-tiedostot
   * Excelin ohjaus Pythonilla: oliomalli
